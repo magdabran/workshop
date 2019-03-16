@@ -1,0 +1,47 @@
+h1 {
+	color: #50FFB1;
+	font-weight: 900;
+	font-size: 50px;
+}
+
+h2 {
+	color: #FF4A1C;
+	font-weight: 400;
+	font-size: 24px;
+}
+
+h1,h2, a {
+	font-family: 'Roboto', sans-serif;
+}
+
+p {
+	font-family: 'Lora', serif;
+	font-weight: 20px;
+}
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	background-color: ;
+	text-align: center;
+}
+.list-inline: 
+}
+
+@media (max-width: 900px) {
+	.container {
+		width: 700px;
+	}
+}
+
+@media (max-width: 700px) {
+	.container {
+		width: 500px;
+	}
+}
+
+@media (max-width: 500px) {
+	.container {
+		width: 300px;
+	}
+}
